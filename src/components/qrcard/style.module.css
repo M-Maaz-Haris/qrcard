@@ -1,0 +1,24 @@
+.cardWrapper{
+ border-radius: 15px;
+}
+
+.cardImg{
+    border-radius: 10px;
+    height: 222px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.cardHeading{
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.cardHeading+p{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.cardWrapper{
+        max-width: 260px;
+}
