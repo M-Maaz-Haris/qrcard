@@ -11,7 +11,7 @@ const Qrcard = () => {
                    <div className={`bg-white p-3 ${styles.cardWrapper} mx-auto shadow`}>
                       <img src='assets/image-qr-code.png' className={`img-fluid mx-auto d-block ${styles.cardImg}`} alt='Not Found'/>
                       <div className='px-2 pt-3'>
-                        <h3 className={`${styles.cardHeading} mb-0`}>Improve Your Front-end Skills by building projects</h3>
+                        <h1 className={`${styles.cardHeading} mb-0`}>Improve Your Front-end Skills by building projects</h1>
                         <p className={`text-muted text-center pt-2`}>Scan the QR code to visit frontend mentor and take your coding skills to next level</p>
                       </div>
                    </div>
